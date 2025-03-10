@@ -8,7 +8,7 @@ Summary:	Project documentation with Markdown
 Summary(pl.UTF-8):	Dokumentacja projektu przy użyciu notacji Markdown
 Name:		python-mkdocs
 Version:	1.0.4
-Release:	7
+Release:	8
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/mkdocs/
